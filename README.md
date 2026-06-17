@@ -51,9 +51,9 @@ el tiempo de procesamiento un **70%** sobre 200+ registros mensuales.
 
 ## 📊 GitHub Stats
 
-![Bautista's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bautishi&show_icons=true&theme=tokyonight&hide_border=true)
+![Bautista's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Buatishi&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bautishi&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buatishi&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
