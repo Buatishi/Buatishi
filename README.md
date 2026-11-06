@@ -44,7 +44,7 @@ el tiempo de procesamiento un **70%** sobre 200+ registros mensuales.
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | [Jobby web](https://jobbyweb.vercel.app) | Analizador de CV con IA: compara tu CV con una oferta real y devuelve match score, compatibilidad ATS y qué te falta antes de postularte. [Guías](https://jobbyweb.vercel.app/guias) · [Código](https://github.com/Buatishi/Jobby) | Next.js · FastAPI · Supabase |
-| [Salesforce Invoice Automation]([https://github.com/Buatishi](https://github.com/Buatishi/salesforce-invoice-automation)) | Pipeline que redujo procesamiento de facturas un 70% | Python · Salesforce · REST API |
+| [Salesforce Invoice Automation](https://github.com/Buatishi/salesforce-invoice-automation) | Pipeline que redujo procesamiento de facturas un 70% | Python · Salesforce · REST API |
 | [BiblioTech](https://github.com/Buatishi) | Sistema de gestión de biblioteca full stack | JS · HTML · CSS · SQL |
 | [n8n Workflow](https://github.com/Buatishi) | Automatización Typeform → Notion → Gmail | n8n · APIs |
 
